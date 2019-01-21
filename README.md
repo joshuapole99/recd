@@ -48,7 +48,7 @@ Zo is het maken van een voorgedefinieerd pad en kunnen schieten op objecten in d
 
 ## Bronnen
 
-- [Inventory system video tutorial](https://www.youtube.com/watch?v=w6_fetj9PIw)
-- [JSON inventory system video tutorial](https://www.youtube.com/watch?v=ZW6RCKVnqT4&list=PLivfKP2ufIK78r7nzfpIEH89Nlnb__RRG)
-- [Unity inventory system video tutorial](https://unity3d.com/learn/tutorials/projects/adventure-game-tutorial/inventory)
-- [Inventory system global design](https://gamedevelopment.tutsplus.com/articles/designing-an-rpg-inventory-system-that-fits-preliminary-steps--gamedev-14725)
+- [Unity vr interaction](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr)
+- [Unity movement in vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/movement-vr)
+- [Unity VR gamedevelopment](https://www.youtube.com/watch?v=OQuDVloxg70)
+- [Unity vr game](https://www.youtube.com/watch?v=gh4k0Q1Pl7E)
