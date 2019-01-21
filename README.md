@@ -5,8 +5,10 @@ Deze proefopdracht is voor mij gekozen en bestaat uit het maken van een rail sho
 
 ## Kenmerken
 
-- [Unity inventory vr interaction](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr)
-- [Unity inventory movement in vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/movement-vr)
+- [Unity vr interaction](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr)
+- [Unity movement in vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/movement-vr)
+- [Unity VR gamedevelopment](https://www.youtube.com/watch?v=OQuDVloxg70)
+- [Unity vr game](https://www.youtube.com/watch?v=gh4k0Q1Pl7E)
 
 ## Software anaylse
 
@@ -33,9 +35,9 @@ Zo is het maken van een voorgedefinieerd pad en kunnen schieten op objecten in d
 
 ## Leerdoelen
 
-- het laten zien dat je snel een concept speelbaar kunt maken
-- het aantonen dat je goed met VR development om kan gaan
-- het zo goed mogelijk gebruiken van de functionaliteit van VR
+- Het laten zien dat je snel een concept speelbaar kunt maken
+- Het aantonen dat je goed met VR development om kan gaan
+- Het zo goed mogelijk gebruiken van de functionaliteit van VR
 - Het kunnen schrijven van code die zorgvuldig en gemakkelijk te lezen is voor optimale functionaliteit en herbuikbaarheid.
 - Het kunnen demonstreren van een gepolishde rail shooter via een mini-game.
 
