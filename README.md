@@ -6,7 +6,7 @@ Deze proefopdracht is voor mij gekozen en bestaat uit het maken van een rail sho
 ## Kenmerken
 
 - [Unity inventory vr interaction](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr)
-- [Unity inventory system with UNET](http://rogue-craft.com/slot-based-inventory-in-unity-and-unet/)
+- [Unity inventory movement in vr](https://unity3d.com/learn/tutorials/topics/virtual-reality/movement-vr)
 
 ## Software anaylse
 
