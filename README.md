@@ -15,15 +15,16 @@ Door deze gegeven keuze liggen de mogelijkheden van game-engine erg hoog, maar k
 
 Persoonlijke mogelijkheden van game-engine: Unity, GameMaker, MonoGame en Unreal Engine.
 
-De keuze van de Unity game-engine is erg optioneel. De benodigde tijd zal efficiënt gebruikt kunnen worden, dit vanwege de persoonlijke ervaring,
-kennis van C# en de informatie die te vinden is van de game-engine in combinatie met de proefopdracht.
+De keuze van de Unity game-engine is een goede keuze, omdat ik hier meer bekend mee ben en dus makkelijker is om te gebruiken.
+En kan ik dus meteen beginnen aan het programeren van de game.
 
-De keuze van de GameMaker game-engine is voor reden vatbaar, maar ben ik minder bekend mee. Voor de benodigde tijd zal er ruimte gemaakt moeten woorden voor het opfrissen van de GameMaker Language en het aanleren van nieuwe kennis. Dit is dus geen efficiënte optie.
+De keuze van de GameMaker game-engine is mogelijk, maar niet de beste keuze omdat ik dit een lange tijd niet gebruikt heb.
+Dus zal ik veel het leren van de taal steken en minder in het project zelf waardoor ik tijd verlies en dus zal dit geen goede optie zijn.
 
-De keuze van de MonoGame game-engine ligt daar in tegen wel geschikt. Dit omdat de engine, zoals Unity, ook gebruik maakt van de programmeertaal C#.
+De keuze van de MonoGame game-engine is mogelijk. Dit is omdat de engine, zoals Unity, ook gebruik maakt van de programmeertaal C#.
 Helaas is het wel zo dat ik geen ervaring met deze game-engine heb, wat mijn proces tijd kan kosten.
 
-De keuze van de Unreal Engine is erg ondergeschikt. De ervaring en kennis met deze game-engine en de programmeertaal C++ zijn
+De keuze van de Unreal Engine is geen goede keuze. De ervaring en kennis met deze game-engine en de programmeertaal C++ zijn
 erg matig. Hiervoor een leerproces te nemen zou te veel tijd kosten.
 
 Hierbij sluit ik mijn uiteindelijk keuze voor game-engine aan bij die van Unity.
