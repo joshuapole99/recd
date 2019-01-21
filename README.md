@@ -1,6 +1,6 @@
 # Proefopdracht VR Rail Shooter
 
-Deze proefopdracht is voor mij gekozen en bestaat uit het maken van een rail shooter waarbij de speler automatisch een voorgedefinieerd pad volgt. In de basis moet de speler een automatisch een voorgedefinieerd pad volgen en kunnen schieten op objecten. De score van de speler wordt bijgehouden. De systemen die je ontwikkelend moeten herbruikbaar worden opgezet.
+Deze proefopdracht is voor mij gekozen en bestaat uit het maken van een rail shooter waarbij de speler automatisch een voorgedefinieerd pad volgt. In de basis moet de speler een automatisch een voorgedefinieerd pad volgen en kunnen schieten op objecten. De score van de speler wordt bijgehouden. De systemen die worden ontwikkelend moeten herbruikbaar worden opgezet.
 
 
 ## Kenmerken
