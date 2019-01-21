@@ -1,10 +1,11 @@
 # Proefopdracht VR Rail Shooter
 
-Deze proefopdracht is gekozen uit een tiental proefopdrachten en bestaat uit het maken van inventaris systeem met role playing game twist. Het belang van deze opdracht is dat het herbruikbaar is. Het word ook verwacht dat het inventaris systeem sorteerbaar is en dat er items toegevoegd, gebruikt en verwijderd kunnen worden.
+Deze proefopdracht is voor mij gekozen en bestaat uit het maken van een rail shooter waarbij de speler automatisch een voorgedefinieerd pad volgt. In de basis moet de speler een automatisch een voorgedefinieerd pad volgen en kunnen schieten op objecten. De score van de speler wordt bijgehouden. De systemen die je ontwikkelend moeten herbruikbaar worden opgezet.
+
 
 ## Kenmerken
 
-- [Unity inventory system components](https://unity3d.com/learn/tutorials/projects/2d-game-kit/inventory-system)
+- [Unity inventory vr interaction](https://unity3d.com/learn/tutorials/topics/virtual-reality/interaction-vr)
 - [Unity inventory system with UNET](http://rogue-craft.com/slot-based-inventory-in-unity-and-unet/)
 
 ## Software anaylse
