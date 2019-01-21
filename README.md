@@ -24,20 +24,20 @@ Dus zal ik veel het leren van de taal steken en minder in het project zelf waard
 De keuze van de MonoGame game-engine is mogelijk. Dit is omdat de engine, zoals Unity, ook gebruik maakt van de programmeertaal C#.
 Helaas is het wel zo dat ik geen ervaring met deze game-engine heb, wat mijn proces tijd kan kosten.
 
-De keuze van de Unreal Engine is geen goede keuze. De ervaring en kennis met deze game-engine en de programmeertaal C++ zijn
-erg matig. Hiervoor een leerproces te nemen zou te veel tijd kosten.
+De keuze van de Unreal Engine is geen goede keuze. Ik heb namelijk geen ervaring in c++ en daarom zal ik veel tijd in het leren van de taal kwijt raken en de engine is ook nieuw voor mij. Deze optie is dus niet goed.
 
 Hierbij sluit ik mijn uiteindelijk keuze voor game-engine aan bij die van Unity.
 
 Overigens is het uitbreiden van mijn kennis met de Unity game-engine erg relevant voor toekomst doelen en toekomstige stages.
-Zo is het maken van een inventaris systeem in de Unity game-engine erg leerzaam en zeker herbruikbaar in de toekomst.
+Zo is het maken van een voorgedefinieerd pad en kunnen schieten op objecten in de Unity game-engine erg leerzaam en zeker herbruikbaar in de toekomst.
 
 ## Leerdoelen
 
-- Het kunnen maken van een flexibel en herbruikbaar inventaris systeem in de Unity game-engine.
-- Het kunnen begrijpen van user interface prencipes.
+- het laten zien dat je snel een concept speelbaar kunt maken
+- het aantonen dat je goed met VR development om kan gaan
+- het zo goed mogelijk gebruiken van de functionaliteit van VR
 - Het kunnen schrijven van code die zorgvuldig en gemakkelijk te lezen is voor optimale functionaliteit en herbuikbaarheid.
-- Het kunnen demonstreren van een gepolishde inventaris systeem via een mini-game.
+- Het kunnen demonstreren van een gepolishde rail shooter via een mini-game.
 
 ## Planning
 
